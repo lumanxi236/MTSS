@@ -10,7 +10,7 @@ This is the code repository for our paper "Multi task-based facial expression sy
 
 + Prepare
   
-  You need to divide the RafD into 8 expressions and prepare the corresponding txt file, put the txt file into ./datasets
+  You need to divide the RaFD into 8 expressions and prepare the corresponding txt file, put the txt file into ./datasets
 
   Download the model into ./checkpoint
   
