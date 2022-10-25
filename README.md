@@ -19,7 +19,7 @@ This is the code repository for our paper "Multi task-based facial expression sy
 + Test MTSS
 ```
 python core/test.py --config configs/RaFD.yaml
---checkpoint ./checkpoints/gen_00100000.pt
+--checkpoint ./checkpoints/gen_00200000.pt
 --input_path ./input
 --output_path ./output
 ```
