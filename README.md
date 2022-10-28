@@ -1,7 +1,5 @@
 # Multi task-based facial expression synthesis with supervision learning and feature disentanglement of image style
-This is the code repository for our paper "Multi task-based facial expression synthesis with supervision learning and feature disentanglement of image style". Our method is shown below.
-
-<div align=center><img src="https://github.com/lumanxi236/MTSS/blob/main/architecture.png"></div>
+This is the code repository for our paper "Multi task-based facial expression synthesis with supervision learning and feature disentanglement of image style".
 
 # Code
 + Pytorch
